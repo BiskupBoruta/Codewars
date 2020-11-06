@@ -1,3 +1,6 @@
+# Challenge #3
+# https://www.codewars.com/kata/550498447451fbbd7600041c
+
 # This is a pure Bash implementation without any external dependencies.
 
 comp() {

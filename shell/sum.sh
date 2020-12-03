@@ -1,4 +1,4 @@
-# Challenge 17
+# Challenge #17
 # https://www.codewars.com/kata/55d24f55d7dd296eb9000030
 
 # 1, 2, 3, ..., n is an arithmetic sequence. The sum of first n terms of

@@ -1,4 +1,4 @@
-# Challenge 5
+# Challenge #5
 # https://www.codewars.com/kata/56dec885c54a926dcd001095
 
 # Bash does not (easily) support floating point arithmetics. In order to avoid

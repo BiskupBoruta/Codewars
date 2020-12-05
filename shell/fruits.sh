@@ -41,9 +41,7 @@ pineapple)
 # If we wanted to write a script, that would be correct for any array equal in
 # in size to the one above, the implementation would be as follows:
 
-n=$1
-
-while ((n % 9)); do let "n--"; done;
+let "n=$1-($1 % 9)"
 
 # the array is indexed from 0 to 99, so we need to subract 1 to get the correct
 # element.

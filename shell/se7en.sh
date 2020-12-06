@@ -15,7 +15,7 @@
 # out of range of the unsigned 64-bit integer. We cannot rely on basic integer
 # arithmetic and need a more sophisticated solution. The solution is implemented
 # in the reduce() function below. It takes a number and reduces it the way we
-# need, eg. for 1039 it will return 103 - 9  = 94. It supports much larger
+# need, eg. for 1039 it will return 103 - 18  = 85. It supports much larger
 # numbers than 64-bit integers.
 
 reduce() {
